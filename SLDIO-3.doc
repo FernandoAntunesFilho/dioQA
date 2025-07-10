@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SLDIO-3] Como usuário desejo acessar a página de login na loja virtual a fim de visualizar opções de login, cadastro e redefinição de senha</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://fernandoantunes.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://fernandoantunes.atlassian.net/browse/SLDIO-2">Autenticação de usuário</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://fernandoantunes.atlassian.net/browse/SLDIO-2">SLDIO-2</a>)</span>
+                <h3 class="formtitle"><img src="https://fernandoantunes.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SLDIO-3]&nbsp;<a href="https://fernandoantunes.atlassian.net/browse/SLDIO-3">Como usuário desejo acessar a página de login na loja virtual a fim de visualizar opções de login, cadastro e redefinição de senha</a>
+            <span class="subText">
+               Criado: 09/jul/25                   &nbsp;Atualizado(a): 10/jul/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://fernandoantunes.atlassian.net/secure/BrowseProject.jspa?id=10000">SwagLabsDIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://fernandoantunes.atlassian.net/browse/SLDIO-2">Autenticação de usuário</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="5fbd38cd3b4f5900689debe5"
+                id="word_reporter_5fbd38cd3b4f5900689debe5"
+                href="https://fernandoantunes.atlassian.net/secure/ViewProfile.jspa?accountId=5fbd38cd3b4f5900689debe5">
+                    Fernando Antunes
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+            <tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://fernandoantunes.atlassian.net/browse/SLDIO-5">SLDIO-5</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://fernandoantunes.atlassian.net/browse/SLDIO-5">Levantamento e escrita de casos de teste</a>
+                    </td>
+                    <td>
+                        Subtask
+                    </td>
+                    <td>
+                        Em andamento
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://fernandoantunes.atlassian.net/browse/SLDIO-6">SLDIO-6</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://fernandoantunes.atlassian.net/browse/SLDIO-6">Execução de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtask
+                    </td>
+                    <td>
+                        A fazer
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%">SCRUM Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>1-Valor: A autenticação de usuários na loja virtual é importante para que os clientes possam se cadastrar na plataforma com segurança e fazer pedidos. Essa funcionalidade visa unificar fluxo de acesso ao site, permitindo que o usuário possa se cadastrar ou fazer login na loja virtual.</p>
+
+<p>2-Narrativa do usuário:</p>
+
+<ul>
+	<li>Como cliente</li>
+	<li>Eu quero acessar a página de login do cliente</li>
+	<li>Para visualizar opções de login, cadastro e redefinição de senhas na loja virtual</li>
+</ul>
+
+
+<p>3-Requisitos:</p>
+
+<ul>
+	<li>Atores: Cliente</li>
+	<li>Interfaces: Ver documentos anexos de UI/UX</li>
+	<li>Dados:
+	<ul>
+		<li>Criação de banco de dados/tabelas para armazenar informações dos clientes cadastrados</li>
+		<li>Criação de API para integração do front-end com o banco criado</li>
+		<li>Criação de tela de login para permitir que o usuário acesse a página de login e página de cadastro de usuário</li>
+	</ul>
+	</li>
+	<li>Platadforma/Ambiente:
+	<ul>
+		<li>Web/Web Mobile</li>
+		<li>Devem ser configurados ambientes e pipelines para desenvolvimento, homologação do usuário, homologação QA e produção.</li>
+	</ul>
+	</li>
+	<li>Critérios de aceite:
+	<ul>
+		<li>Usuário deverá visualizar formulário para fazer login e entrar na loja virtual</li>
+		<li>Usuário deverá visualizar botão para acessar a tela de cadastro do sistema</li>
+		<li>Usuário deverá visualizar botão para acessar a tela 'Esqueci minha senha'</li>
+	</ul>
+	</li>
+</ul>
+
+
+<p><b>Cenário 1:</b> Cliente sem cadastro deseja criar uma conta:</p>
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E não esteja cadastrado no sistema</p>
+
+<p>Quando clicar em 'Criar Conta'</p>
+
+<p>Então será redirecionado para uma tela de criação de conta</p>
+
+
+
+<p><b>Cenário 2:</b> Cliente sem cadastro tenta fazer login:</p>
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E adiciona um username não cadastrado</p>
+
+<p>Quando clicar em 'Fazer Login'</p>
+
+<p>Então uma mensagem surgirá avisando que a conta não existe</p>
+
+
+
+<p><b>Cenário 3:</b> Cliente com cadastro informa dados incorretos de acesso</p>
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E adicione um username correto</p>
+
+<p>Mas escreva uma senha incorreta</p>
+
+<p>Quando clicar em ‘Criar conta’</p>
+
+<p>Então uma mensagem surgirá avisando que a senha está incorreta</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Thu Jul 10 13:58:38 UTC 2025 por Fernando Antunes usando JIRA 1001.0.0-SNAPSHOT#100286-rev:ca1c7c92cb832b3b938cf8a450c9bbd89d631a8f.
+
+</body>
+</html>
